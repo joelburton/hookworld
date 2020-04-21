@@ -1,5 +1,4 @@
 import React, { useState, useEffect } from 'react';
-import { v4 as uuid } from 'uuid';
 import api from './api';
 import TodoList from './TodoList';
 import NewTodoForm from './NewTodoForm';
